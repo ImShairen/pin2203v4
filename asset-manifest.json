@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pin2203v4/static/css/main.0fe4f0eb.css",
+    "main.js": "/pin2203v4/static/js/main.64e3d1e0.js",
+    "static/media/logoCabeceraShairen.png": "/pin2203v4/static/media/logoCabeceraShairen.5cd9809abaed8a88e48a.png",
+    "index.html": "/pin2203v4/index.html",
+    "main.0fe4f0eb.css.map": "/pin2203v4/static/css/main.0fe4f0eb.css.map",
+    "main.64e3d1e0.js.map": "/pin2203v4/static/js/main.64e3d1e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe4f0eb.css",
+    "static/js/main.64e3d1e0.js"
+  ]
+}
