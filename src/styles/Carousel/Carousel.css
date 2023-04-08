@@ -1,0 +1,12 @@
+.carousel {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 8%;
+}
+@media (max-width: 900px) {
+  .carousel {
+    min-width: 60%;
+  }
+}
+
+/*# sourceMappingURL=Carousel.css.map */

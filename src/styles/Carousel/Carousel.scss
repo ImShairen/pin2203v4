@@ -1,0 +1,9 @@
+.carousel {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 8%;
+
+    @media (max-width: 900px) {
+        min-width: 60%;
+    }
+}
