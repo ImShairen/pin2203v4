@@ -2,7 +2,7 @@
   "name": "pin2203v4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://imshairen.github.io/pin2203v4/",
+  "homepage": "http://ImShairen.github.io/pin2203v4/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
