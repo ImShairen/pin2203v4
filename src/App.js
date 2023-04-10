@@ -50,7 +50,7 @@ function App() {
       })
       .catch(error => {
         console.error('Error:', error);
-        cambiarFormularioValido(false);
+        // cambiarFormularioValido(false);
       });
   };
 
