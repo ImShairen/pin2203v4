@@ -45,7 +45,7 @@ function App() {
           cambiarCorreo({ campo: '', valido: null });
           cambiarTelefono({ campo: '', valido: null });
         } else {
-          cambiarFormularioValido(false);
+          cambiarFormularioValido(null);
         }
       })
       .catch(error => {
